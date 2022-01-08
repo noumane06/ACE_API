@@ -1,0 +1,17 @@
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\APIwebNETCORE.exe
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Cosmos.CRTCompat.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\appsettings.Development.json
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\appsettings.json
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\APIwebNETCORE.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\APIwebNETCORE.deps.json
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\APIwebNETCORE.runtimeconfig.json
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\APIwebNETCORE.pdb
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Microsoft.OpenApi.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Newtonsoft.Json.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Noumane\Desktop\ACE\APIwebNETCORE\APIwebNETCORE\publish\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
